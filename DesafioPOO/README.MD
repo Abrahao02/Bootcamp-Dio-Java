@@ -53,13 +53,5 @@ classDiagram
 
 
 
-poo-desafio-iphone
-│   README.md
-│
-└───src
-    └───main
-        └───java
-            ├───ReprodutorMusical.java
-            ├───AparelhoTelefonico.java
-            └───NavegadorNaInternet.java
+
 
